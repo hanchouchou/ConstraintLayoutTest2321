@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.android.percent.support.PercentFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.constraintlayouttest.Main4Activity">
+    <TextView
+        android:id="@+id/tv_main4"
+        app:layout_heightPercent="50%"
+        app:layout_widthPercent="50%"
+        android:text="PercentFrameLayout"
+        android:gravity="center"
+        android:layout_height="0dp"
+        android:layout_width="0dp" />
+    <Button
+        android:id="@+id/bt1"
+        android:text="bt1"
+        android:layout_gravity="right|bottom"
+        app:layout_heightPercent="50%"
+        app:layout_widthPercent="50%"
+        android:layout_height="0dp"
+        android:layout_width="0dp" />
+</com.zhy.android.percent.support.PercentFrameLayout>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ConstraintLayoutTest</string>
+    <string name="one_di">登录第一通航资讯</string>
+    <string name="phone_qianzhui">+86</string>
+    <string name="phone_houzhui">输入手机号</string>
+    <string name="login">登录</string>
+    <string name="input_yanzhengma">请输入验证码</string>
+    <string name="get_yanzhengma">获取验证码</string>
+    <string name="deng_zidong">未注册手机验证后自动登录</string>
+    <string name="reading">我已阅读并同意</string>
+    <string name="xieyi_user"> “用户协议”</string>
+    <string name="tiaokuan_yinsi"> “隐私条款”</string>
+    <string name="and"> 和 </string>
+    <string name="shangchuan_head"> 上传头像 </string>
+    <string name="user_input"> 请输入用户名 </string>
+    <string name="end_button"> 完成 </string>
+    <string name="skip"> 跳过 </string>
+
+</resources>
